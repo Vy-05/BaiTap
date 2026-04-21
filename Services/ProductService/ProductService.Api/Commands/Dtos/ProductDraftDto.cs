@@ -1,8 +1,8 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 
-namespace ProductService.Api.Queries.Dtos;
+namespace ProductService.Api.Commands.Dtos;
 
-public class ProductDto
+public class ProductDraftDto
 {
     public string Code { get; set; }
     public string Name { get; set; }
