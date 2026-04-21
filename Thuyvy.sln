@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Impl", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Tests", "Services\DashboardService\DashboardService.Tests\DashboardService.Tests.csproj", "{542D097B-C916-4FAA-AA9E-0C466B8B959B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricingService.IntegrationTests", "Services\PricingService\PricingService.IntegrationTests\PricingService.IntegrationTests.csproj", "{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +455,18 @@ Global
 		{542D097B-C916-4FAA-AA9E-0C466B8B959B}.Release|x64.Build.0 = Release|Any CPU
 		{542D097B-C916-4FAA-AA9E-0C466B8B959B}.Release|x86.ActiveCfg = Release|Any CPU
 		{542D097B-C916-4FAA-AA9E-0C466B8B959B}.Release|x86.Build.0 = Release|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Release|x64.Build.0 = Release|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -494,6 +508,7 @@ Global
 		{C9170C14-EA87-4A54-BEEA-50F69A9D61DB} = {3F71BEB0-01F5-17CB-6346-A2CC851A62EC}
 		{FD3184B5-80BD-409D-9802-7E79D509C503} = {3F71BEB0-01F5-17CB-6346-A2CC851A62EC}
 		{542D097B-C916-4FAA-AA9E-0C466B8B959B} = {3F71BEB0-01F5-17CB-6346-A2CC851A62EC}
+		{1242409A-55CE-40DE-9ABD-7A41FC9F85CB} = {493E710F-E8C5-EB71-BD10-2DF2A771875D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAE3F08A-9D0B-4655-9236-FEB0F5504E27}

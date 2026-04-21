@@ -2,5 +2,5 @@
 
 public class CreatePolicyResult
 {
-    public string PolicyNumber { get; set; } = string.Empty;
+    public string PolicyNumber { get; set; }
 }
