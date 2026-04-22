@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37111.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenThiem", "NguyenThiem\NguyenThiem.csproj", "{1A6D8D95-63FC-4FAC-BF83-E52DBAC77D0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuongVY", "TuongVY\TuongVY.csproj", "{1A6D8D95-63FC-4FAC-BF83-E52DBAC77D0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentPortalApiGateway", "AgentPortalApiGateway\AgentPortalApiGateway.csproj", "{DA3908DD-CAA9-4D9A-8AF1-19E48A2ABCCF}"
 EndProject
